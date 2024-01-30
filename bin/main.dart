@@ -4,6 +4,7 @@ import 'Rectangle.dart';
 import 'Student.dart';
 
 void main(List<String> arguments) {
+  // Rectangle class
   Rectangle rect1 = Rectangle(3, 5);
   int result1 = rect1.calcRectPer();
   int result2 = rect1.calcRectArea();
